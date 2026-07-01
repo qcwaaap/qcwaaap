@@ -55,13 +55,13 @@ My background in **SMM and advertising** helps me understand user behaviour and 
 > **Role:** Fullstack Developer (frontend + backend).  
 > **Stack:** React, JavaScript, PHP (adapted from Node.js), HTML, CSS.  
 > **Highlights:** Responsive design, API integration, hosting adaptation.  
-> 🔗 **[Live Demo](https://cardizel.com)** • **[Repo](https://github.com/qcwaaap/cardizel)** *(if public, else remove)*
+> 🔗 **[Live Demo](https://cardizel.com)** • **[Repo](https://github.com/qcwaaap/cardizel)** 
 
 #### 2. Tamagotchi Game
 > Interactive browser-based virtual pet game.  
 > **Stack:** JavaScript (vanilla), DOM manipulation.  
 > **Features:** Game logic, state management, UI updates.  
-> 🔗 **[Live Demo](https://qcwaaap.github.io/tamagochi)** *(if deployed)* • **[Repo](https://github.com/qcwaaap/tamagochi)**
+> 🔗 **[Live Demo](https://qcwaaap.github.io/tamagochi)** • **[Repo](https://github.com/qcwaaap/tamagochi)**
 
 #### 3. CLI Game (Hexlet Project)
 > Console-based game with modular architecture.  
@@ -73,7 +73,7 @@ My background in **SMM and advertising** helps me understand user behaviour and 
 > Web app for creating and managing recipes.  
 > **Stack:** JavaScript, HTML, CSS.  
 > **Features:** CRUD operations, dynamic UI, data handling.  
-> 🔗 **[Live Demo](https://qcwaaap.github.io/recipe-builder)** *(if deployed)* • **[Repo](https://github.com/qcwaaap/recipe-builder)**
+> 🔗 **[Live Demo](https://qcwaaap.github.io/recipe-builder)**  • **[Repo](https://github.com/qcwaaap/recipe-builder)**
 
 ---
 
