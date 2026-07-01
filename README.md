@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a ** Frontend / Fullstack Developer** with commercial experience in building real-world web applications.  
+I'm a **Frontend / Fullstack Developer** with commercial experience in building real-world web applications.  
 I developed and delivered a full landing page for a client – from frontend (React) to backend (Node.js → PHP adaptation).  
 My background in **SMM and advertising** helps me understand user behaviour and business needs, making my code not just functional, but effective.
 
