@@ -2,7 +2,7 @@
 -->
 
 <h1 align="center">👋 Hi, I'm Maria Nedbaylova</h1>
-<h3 align="center">Fullstack Developer | React • Node.js • PHP</h3>
+<h3 align="center">Fullstack Developer | React • Node.js • Python</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72A2A&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Fullstack+enthusiast;Real-client+project+delivered" alt="Typing SVG" />
