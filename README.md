@@ -5,14 +5,14 @@
 <h3 align="center">Fullstack Developer | React • Node.js • PHP</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72A2A&center=true&vCenter=true&random=false&width=435&lines=Junior+Frontend+Developer;Fullstack+enthusiast;Real-client+project+delivered" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72A2A&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Fullstack+enthusiast;Real-client+project+delivered" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm a **Junior Frontend / Fullstack Developer** with commercial experience in building real-world web applications.  
+I'm a ** Frontend / Fullstack Developer** with commercial experience in building real-world web applications.  
 I developed and delivered a full landing page for a client – from frontend (React) to backend (Node.js → PHP adaptation).  
 My background in **SMM and advertising** helps me understand user behaviour and business needs, making my code not just functional, but effective.
 
