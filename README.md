@@ -16,10 +16,9 @@ I'm a ** Fullstack Developer** with commercial experience in building real-world
 I developed and delivered a full landing page for a client – from frontend (React) to backend (Node.js → PHP adaptation).  
 My background in **SMM and advertising** helps me understand user behaviour and business needs, making my code not just functional, but effective.
 
-- 🎓 3rd year student at **Hexlet IT College** (Fullstack Development)
+- 🎓 4rd year student at **Hexlet IT College** (Fullstack Development)
 - 🌱 Currently diving deeper into **TypeScript, Next.js, and Three.js**
 - 💬 Ask me about **React, JavaScript, and clean architecture**
-- ⚡ Fun fact: I once adapted a backend from Node.js to PHP due to hosting constraints!
 
 ---
 
