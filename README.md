@@ -1,104 +1,237 @@
-<!--
--->
+<div align="center">
 
-<h1 align="center">I'm Maria</h1>
-<h3 align="center">Fullstack Developer | React • Node.js • Python • Golang</h3>
+# Maria
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F72A2A&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Fullstack+enthusiast;Real-client+project+delivered" alt="Typing SVG" />
-</p>
+### Frontend Developer
 
----
+**React · JavaScript · TypeScript**
 
-### 🧑‍💻 About Me
+<br>
 
-I'm a ** Fullstack Developer** with commercial experience in building real-world web applications.  
-I developed and delivered a full landing page for a client – from frontend (React) to backend (Node.js → PHP adaptation).  
-My background in **SMM and advertising** helps me understand user behaviour and business needs, making my code not just functional, but effective.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=E879A8&center=true&vCenter=true&random=false&width=500&lines=frontend+developer;building+things+I+find+interesting;react+%2B+javascript+%2B+coffee" alt="Typing SVG" />
 
-- 🎓 4rd year student at **Hexlet IT College** (Fullstack Development)
-- 🌱 Currently diving deeper into **TypeScript, Next.js, and Three.js**
-- 💬 Ask me about **React, JavaScript, and clean architecture**
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FDE2F3&height=2&section=header" width="80%" />
 
-### 🛠️ Tech Stack
+</div>
 
-#### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=F72A2A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=F72A2A)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=F72A2A)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=F72A2A)
-![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=F72A2A)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=F72A2A)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=F72A2A)
+<br>
 
-#### Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js&logoColor=F72A2A)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=F72A2A)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=F72A2A)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql&logoColor=F72A2A)
-![DBeaver](https://img.shields.io/badge/-DBeaver-black?style=flat-square&logo=dbeaver&logoColor=F72A2A)
+## about me
 
-#### Tools & Other
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=F72A2A)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=F72A2A)
-![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js&logoColor=F72A2A)
+I'm a **Frontend Developer** focused on building web applications with **React and JavaScript**.
+
+I have commercial experience delivering a website for a real client — from implementing the frontend and API integration to adapting the backend to hosting requirements and launching the project in production.
+
+I also have practical experience with **Node.js, Python, PHP and Go**, which gives me a broader understanding of APIs, databases and backend architecture.
+
+My background in **SMM and advertising** helps me think about both the technical side of a product and the people who use it.
+
+**Currently:**
+
+* 4th-year student at **Hexlet IT College**
+* Developing my skills in **TypeScript, Next.js and Go**
+* Working on a Go project that matches music to a cyclist's cadence
+* Interested in frontend architecture, interactive interfaces and creative technical projects
+
+<br>
+
+<div align="center">
+
+`react` `javascript` `typescript` `three.js` `node.js` `python` `go`
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
+## things i work with
 
-#### 1. Cardizel – Commercial Landing Page
-> A full-fledged landing page built for a real client.  
-> **Role:** Fullstack Developer (frontend + backend).  
-> **Stack:** React, JavaScript, PHP (adapted from Node.js), HTML, CSS.  
-> **Highlights:** Responsive design, API integration, hosting adaptation.  
-> 🔗 **[Live Demo](https://cardizel.com)** • **[Repo](https://github.com/qcwaaap/cardizel)** 
+### frontend
 
-#### 2. Tamagotchi Game
-> Interactive browser-based virtual pet game.  
-> **Stack:** JavaScript (vanilla), DOM manipulation.  
-> **Features:** Game logic, state management, UI updates.  
-> 🔗 **[Live Demo](https://qcwaaap.github.io/tamagochi)** • **[Repo](https://github.com/qcwaaap/tamagochi)**
+<div align="left">
 
-#### 3. CLI Game (Hexlet Project)
-> Console-based game with modular architecture.  
-> **Stack:** JavaScript (Node.js).  
-> **Focus:** Clean code, separation of concerns, testing.  
-> 🔗 **[Repo](https://github.com/qcwaaap/frontend-project-44)**
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF4B8?style=flat-square\&logo=javascript\&logoColor=9A7B00)
+![TypeScript](https://img.shields.io/badge/TypeScript-DDEBFF?style=flat-square\&logo=typescript\&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-E0F7FA?style=flat-square\&logo=react\&logoColor=149ECA)
+![Next.js](https://img.shields.io/badge/Next.js-EDEDED?style=flat-square\&logo=next.js\&logoColor=111111)
+![Three.js](https://img.shields.io/badge/Three.js-E8E8E8?style=flat-square\&logo=three.js\&logoColor=111111)
+![Vue](https://img.shields.io/badge/Vue.js-DDF5E5?style=flat-square\&logo=vue.js\&logoColor=42B883)
+![HTML5](https://img.shields.io/badge/HTML5-FFE1D6?style=flat-square\&logo=html5\&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-DDEBFF?style=flat-square\&logo=css3\&logoColor=1572B6)
 
-#### 4. Recipe Builder App
-> Web app for creating and managing recipes.  
-> **Stack:** JavaScript, HTML, CSS.  
-> **Features:** CRUD operations, dynamic UI, data handling.  
-> 🔗 **[Live Demo](https://qcwaaap.github.io/recipe-builder)**  • **[Repo](https://github.com/qcwaaap/recipe-builder)**
+</div>
 
----
+### backend & data
 
-### 📊 GitHub Stats
+<div align="left">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qcwaaap&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F72A2A&icon_color=F72A2A&text_color=ffffff" alt="Maria's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qcwaaap&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F72A2A&text_color=ffffff" alt="Top languages" width="40%" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-DDF5E5?style=flat-square\&logo=node.js\&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-FFF0C7?style=flat-square\&logo=python\&logoColor=3776AB)
+![Go](https://img.shields.io/badge/Go-DDF4F7?style=flat-square\&logo=go\&logoColor=00ADD8)
+![PHP](https://img.shields.io/badge/PHP-E9E2FF?style=flat-square\&logo=php\&logoColor=777BB4)
+![SQL](https://img.shields.io/badge/SQL-FDE4EC?style=flat-square\&logo=postgresql\&logoColor=4169E1)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qcwaaap&theme=dark&background=0d1117&stroke=F72A2A&ring=F72A2A&fire=F72A2A&currStreakNum=ffffff" alt="GitHub Streak" />
-</p>
+</div>
 
----
+### tools
 
-### 📫 Connect with Me
+<div align="left">
 
-<p align="center">
-  <a href="mailto:masikemokid@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=F72A2A" alt="Email" /></a>
-  <a href="https://t.me/l0w2key"><img src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram&logoColor=F72A2A" alt="Telegram" /></a>
-  <a href="https://github.com/qcwaaap"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=F72A2A" alt="GitHub" /></a>
-</p>
+![Git](https://img.shields.io/badge/Git-FDE2D5?style=flat-square\&logo=git\&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-EDEDED?style=flat-square\&logo=github\&logoColor=181717)
+![Docker](https://img.shields.io/badge/Docker-DDEBFF?style=flat-square\&logo=docker\&logoColor=2496ED)
+![DBeaver](https://img.shields.io/badge/DBeaver-E5F0FF?style=flat-square\&logo=dbeaver\&logoColor=382923)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qcwaaap&label=Profile%20views&color=F72A2A&style=flat-square" alt="Profile views" />
-</p>
+<div align="center">
+
+# selected projects
+
+*some things I've built, broken, fixed and kept*
+
+</div>
+
+<br>
+
+### 01 / Cardizel
+
+**Commercial web project**
+
+A website developed from scratch for a real client.
+
+**React · JavaScript · HTML · CSS · Node.js · PHP**
+
+* Developed the frontend and responsive interface from scratch
+* Integrated the frontend with the backend and API
+* Adapted the backend from **Node.js to PHP** because of hosting limitations
+* Worked with real client requirements and feedback
+* Deployed the project to production and continue to maintain it
+
+[website](https://cardizel.com) · [repository](https://github.com/qcwaaap/slesar1)
+
+<br>
+
+### 02 / Tamagotchi
+
+**Interactive 3D web application**
+
+A pet project created to explore 3D graphics in the browser and expand my frontend stack.
+
+**React · TypeScript · Three.js · Node.js**
+
+* Built an interactive 3D scene
+* Worked with 3D models and rendering using **Three.js**
+* Connected the frontend with a backend through an API
+* Practiced interactive UI and application state management
+
+[live demo](https://qcwaaap.github.io/tamagochi) · [repository](https://github.com/qcwaaap/tamagochi)
+
+<br>
+
+### 03 / Todo
+
+**Production practice / architecture project**
+
+A practical project focused on understanding how a production backend can be structured with clear separation of responsibilities.
+
+**Python · FastAPI · SQLAlchemy · aiosqlite**
+
+* Designed the application architecture with separation between layers
+* Developed **archtool** — a dependency injection container with automatic dependency resolution through type annotations
+* Developed **web_fractal** — a FastAPI wrapper with Unit of Work, ORM → Pydantic serialization and automatic controller registration
+* Built an asynchronous application using FastAPI, SQLAlchemy and aiosqlite
+* Created a reusable architectural template for asynchronous Python projects
+
+**Grade: 5**
+
+[repository](https://github.com/qcwaaap/todo)
+
+<br>
+
+### 04 / Cadence
+
+**Go · work in progress**
+
+A personal project exploring music selection based on a cyclist's pedaling cadence.
+
+The idea is simple: match the cyclist's current cadence with tracks that have a similar BPM.
+
+**Currently working on:**
+
+* processing cadence data
+* external API integration
+* matching cadence with track BPM
+* researching different approaches to BPM detection
+
+The long-term idea is to turn the project into a **hardware + software system with a cadence sensor and custom interface**.
+
+I'm also considering developing it further as the basis for my graduation project.
+
+[repository](https://github.com/qcwaaap/cadence)
+
+<br>
+
+### 05 / MoneyMaster
+
+**Personal finance web application**
+
+A web application for tracking income and expenses and visualizing financial data.
+
+The project gave me practical experience with user-facing interfaces, application data and API interaction.
+
+[repository](https://github.com/qcwaaap/money_master)
+
+---
+
+<div align="center">
+
+### other things i've built
+
+[Recipe Builder](https://github.com/qcwaaap/recipe-builder) ·
+[Brain Games](https://github.com/qcwaaap/brain_games) ·
+[Frontend Project 44](https://github.com/qcwaaap/frontend-project-44)
+
+</div>
+
+---
+
+<div align="center">
+
+## github activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=qcwaaap&show_icons=true&hide_border=true&bg_color=FFF8FC&title_color=E879A8&icon_color=E879A8&text_color=555555" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qcwaaap&layout=compact&hide_border=true&bg_color=FFF8FC&title_color=E879A8&text_color=555555" width="40%" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qcwaaap&hide_border=true&background=FFF8FC&stroke=F3B6D2&ring=E879A8&fire=E879A8&currStreakNum=555555" />
+
+</div>
+
+---
+
+<div align="center">
+
+### let's connect
+
+<a href="mailto:masikemokid@gmail.com">
+<img src="https://img.shields.io/badge/email-FFF0F6?style=for-the-badge&logo=gmail&logoColor=E879A8" />
+</a>
+
+<a href="https://t.me/l0w2key">
+<img src="https://img.shields.io/badge/telegram-E8F7FA?style=for-the-badge&logo=telegram&logoColor=2AABEE" />
+</a>
+
+<a href="https://github.com/qcwaaap">
+<img src="https://img.shields.io/badge/github-F1F1F1?style=for-the-badge&logo=github&logoColor=181717" />
+</a>
+
+<br><br>
+
+<sub>made with curiosity and an unreasonable amount of tabs</sub>
+
+</div>
