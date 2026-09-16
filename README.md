@@ -115,7 +115,7 @@ A website developed from scratch for a real client.
 
 <br>
 
-### 02 / Tamagotchi
+### 02 / Tamagochi
 
 **Interactive 3D web application**
 
