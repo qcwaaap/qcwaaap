@@ -2,13 +2,13 @@
 
 # Maria
 
-### Frontend Developer
+### Fullstack Developer
 
 **React · JavaScript · TypeScript**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=E879A8&center=true&vCenter=true&random=false&width=500&lines=frontend+developer;building+things+I+find+interesting;react+%2B+javascript+%2B+coffee" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=E879A8&center=true&vCenter=true&random=false&width=500&lines=fullstack+developer;building+things+I+find+interesting;react+%2B+javascript+%2B+coffee" alt="Typing SVG" />
 
 <br>
 
@@ -20,7 +20,7 @@
 
 ## about me
 
-I'm a **Frontend Developer** focused on building web applications with **React and JavaScript**.
+I'm a **Fullstack Developer** focused on building web applications with **React and JavaScript**.
 
 I have commercial experience delivering a website for a real client — from implementing the frontend and API integration to adapting the backend to hosting requirements and launching the project in production.
 
