@@ -2,7 +2,7 @@
 
 # Maria
 
-### Fullstack Developer
+### Go Developer Intern | Backend • Go • SQL
 
 **React · JavaScript · TypeScript**
 
@@ -30,6 +30,7 @@ My background in **SMM and advertising** helps me think about both the technical
 
 **Currently:**
 
+* Go-Developer Intern (since Oct 2026)
 * 4th-year student at **Hexlet IT College**
 * Developing my skills in **TypeScript, Next.js and Go**
 * Working on a Go project that matches music to a cyclist's cadence
@@ -65,7 +66,8 @@ My background in **SMM and advertising** helps me think about both the technical
 ### backend & data
 
 <div align="left">
-
+  
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go&logoColor=F72A2A)
 ![Node.js](https://img.shields.io/badge/Node.js-DDF5E5?style=flat-square\&logo=node.js\&logoColor=339933)
 ![Python](https://img.shields.io/badge/Python-FFF0C7?style=flat-square\&logo=python\&logoColor=3776AB)
 ![Go](https://img.shields.io/badge/Go-DDF4F7?style=flat-square\&logo=go\&logoColor=00ADD8)
